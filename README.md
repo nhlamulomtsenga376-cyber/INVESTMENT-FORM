@@ -1,6 +1,7 @@
 # INVESTMENT-FORM
 
-Full name
+Full names
+Surname
 Email
 address
 Phone number
